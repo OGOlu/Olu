@@ -1,0 +1,34 @@
+body {
+margin: 0;
+padding: 0;
+text-align-last: center;
+font-family: "Short Stack";
+object-position:left}
+
+h1 {
+    font-family: "Short Stack";
+    color:#E493B3;
+    font-size: 6rem}
+
+h2 {
+    font-family: "Short Stack";
+    color:#EEA5A6;
+    font-size: 2rem}
+
+.top-container {
+    background-color:#59abf8;
+    position: relative;
+    top:1px}
+
+.cloud {
+    position: absolute;
+    left: 25%;
+    top:20%}
+
+.cloud_2 {
+    position: absolute;
+    right: 25%;
+    bottom:30%}
+
+.top-container span {
+    text-decoration: underline;}
